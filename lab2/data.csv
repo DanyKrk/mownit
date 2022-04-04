@@ -1,0 +1,2001 @@
+Vector_length,Operation_type,Operation_time
+10,dot,2.4e-6
+10,dot,1.0e-7
+10,dot,1.0e-7
+10,dot,1.0e-7
+10,dot,1.0e-7
+10,dot,1.0e-7
+10,dot,1.0e-7
+10,dot,1.0e-7
+10,dot,1.0e-7
+10,dot,1.0e-7
+20,dot,3.0e-7
+20,dot,1.0e-7
+20,dot,1.0e-7
+20,dot,1.0e-7
+20,dot,1.0e-7
+20,dot,1.0e-7
+20,dot,1.0e-7
+20,dot,1.0e-7
+20,dot,0.0
+20,dot,1.0e-7
+30,dot,2.0e-7
+30,dot,1.0e-7
+30,dot,1.0e-7
+30,dot,1.0e-7
+30,dot,1.0e-7
+30,dot,1.0e-7
+30,dot,1.0e-7
+30,dot,1.0e-7
+30,dot,1.0e-7
+30,dot,1.0e-7
+40,dot,2.0e-7
+40,dot,1.0e-7
+40,dot,1.0e-7
+40,dot,1.0e-7
+40,dot,1.0e-7
+40,dot,1.0e-7
+40,dot,1.0e-7
+40,dot,1.0e-7
+40,dot,1.0e-7
+40,dot,2.0e-7
+50,dot,1.0e-7
+50,dot,1.0e-7
+50,dot,1.0e-7
+50,dot,1.0e-7
+50,dot,1.0e-7
+50,dot,1.0e-7
+50,dot,1.0e-7
+50,dot,1.0e-7
+50,dot,0.0
+50,dot,1.0e-7
+60,dot,2.0e-7
+60,dot,1.0e-7
+60,dot,1.0e-7
+60,dot,2.0e-7
+60,dot,1.0e-7
+60,dot,2.0e-7
+60,dot,2.0e-7
+60,dot,2.0e-7
+60,dot,1.0e-7
+60,dot,1.0e-7
+70,dot,1.0e-7
+70,dot,1.0e-7
+70,dot,1.0e-7
+70,dot,1.0e-7
+70,dot,1.0e-7
+70,dot,2.0e-7
+70,dot,1.0e-7
+70,dot,1.0e-7
+70,dot,1.0e-7
+70,dot,1.0e-7
+80,dot,1.0e-7
+80,dot,1.0e-7
+80,dot,1.0e-7
+80,dot,1.0e-7
+80,dot,1.0e-7
+80,dot,1.0e-7
+80,dot,1.0e-7
+80,dot,1.0e-7
+80,dot,1.0e-7
+80,dot,1.0e-7
+90,dot,1.0e-7
+90,dot,1.0e-7
+90,dot,1.0e-7
+90,dot,1.0e-7
+90,dot,1.0e-7
+90,dot,1.0e-7
+90,dot,2.0e-7
+90,dot,2.0e-7
+90,dot,1.0e-7
+90,dot,1.0e-7
+100,dot,1.0e-7
+100,dot,1.0e-7
+100,dot,1.0e-7
+100,dot,1.0e-7
+100,dot,2.0e-7
+100,dot,1.0e-7
+100,dot,2.0e-7
+100,dot,1.0e-7
+100,dot,1.0e-7
+100,dot,2.0e-7
+110,dot,2.0e-7
+110,dot,1.0e-7
+110,dot,2.0e-7
+110,dot,2.0e-7
+110,dot,2.0e-7
+110,dot,1.0e-7
+110,dot,2.0e-7
+110,dot,2.0e-7
+110,dot,2.0e-7
+110,dot,1.0e-7
+120,dot,1.0e-7
+120,dot,1.0e-7
+120,dot,1.0e-7
+120,dot,1.0e-7
+120,dot,1.0e-7
+120,dot,1.0e-7
+120,dot,1.0e-7
+120,dot,1.0e-7
+120,dot,1.0e-7
+120,dot,1.0e-7
+130,dot,2.0e-7
+130,dot,1.0e-7
+130,dot,1.0e-7
+130,dot,1.0e-7
+130,dot,1.0e-7
+130,dot,2.0e-7
+130,dot,1.0e-7
+130,dot,1.0e-7
+130,dot,1.0e-7
+130,dot,1.0e-7
+140,dot,1.0e-7
+140,dot,1.0e-7
+140,dot,1.0e-7
+140,dot,1.0e-7
+140,dot,1.0e-7
+140,dot,1.0e-7
+140,dot,1.0e-7
+140,dot,1.0e-7
+140,dot,1.0e-7
+140,dot,1.0e-7
+150,dot,2.0e-7
+150,dot,2.0e-7
+150,dot,1.0e-7
+150,dot,2.0e-7
+150,dot,2.0e-7
+150,dot,1.0e-7
+150,dot,1.0e-7
+150,dot,1.0e-7
+150,dot,1.0e-7
+150,dot,1.0e-7
+160,dot,1.0e-7
+160,dot,2.0e-7
+160,dot,1.0e-7
+160,dot,1.0e-7
+160,dot,2.0e-7
+160,dot,1.0e-7
+160,dot,2.0e-7
+160,dot,1.0e-7
+160,dot,2.0e-7
+160,dot,1.0e-7
+170,dot,2.0e-7
+170,dot,2.0e-7
+170,dot,1.0e-7
+170,dot,1.0e-7
+170,dot,2.0e-7
+170,dot,1.0e-7
+170,dot,1.0e-7
+170,dot,1.0e-7
+170,dot,2.0e-7
+170,dot,2.0e-7
+180,dot,1.0e-7
+180,dot,2.0e-7
+180,dot,1.0e-7
+180,dot,2.0e-7
+180,dot,1.0e-7
+180,dot,1.0e-7
+180,dot,1.0e-7
+180,dot,1.0e-7
+180,dot,1.0e-7
+180,dot,1.0e-7
+190,dot,1.0e-7
+190,dot,1.0e-7
+190,dot,1.0e-7
+190,dot,2.0e-7
+190,dot,1.0e-7
+190,dot,2.0e-7
+190,dot,2.0e-7
+190,dot,1.0e-7
+190,dot,1.0e-7
+190,dot,1.0e-7
+200,dot,2.0e-7
+200,dot,1.0e-7
+200,dot,2.0e-7
+200,dot,2.0e-7
+200,dot,1.0e-7
+200,dot,1.0e-7
+200,dot,2.0e-7
+200,dot,1.0e-7
+200,dot,1.0e-7
+200,dot,2.0e-7
+210,dot,1.0e-7
+210,dot,2.0e-7
+210,dot,1.0e-7
+210,dot,1.0e-7
+210,dot,2.0e-7
+210,dot,2.0e-7
+210,dot,1.0e-7
+210,dot,2.0e-7
+210,dot,1.0e-7
+210,dot,2.0e-7
+220,dot,2.0e-7
+220,dot,2.0e-7
+220,dot,1.0e-7
+220,dot,2.0e-7
+220,dot,2.0e-7
+220,dot,1.0e-7
+220,dot,2.0e-7
+220,dot,2.0e-7
+220,dot,1.0e-7
+220,dot,1.0e-7
+230,dot,2.0e-7
+230,dot,1.0e-7
+230,dot,1.0e-7
+230,dot,2.0e-7
+230,dot,2.0e-7
+230,dot,2.0e-7
+230,dot,2.0e-7
+230,dot,2.0e-7
+230,dot,1.0e-7
+230,dot,2.0e-7
+240,dot,1.0e-7
+240,dot,2.0e-7
+240,dot,2.0e-7
+240,dot,2.0e-7
+240,dot,1.0e-7
+240,dot,2.0e-7
+240,dot,2.0e-7
+240,dot,1.0e-7
+240,dot,2.0e-7
+240,dot,1.0e-7
+250,dot,2.0e-7
+250,dot,2.0e-7
+250,dot,2.0e-7
+250,dot,2.0e-7
+250,dot,2.0e-7
+250,dot,2.0e-7
+250,dot,2.0e-7
+250,dot,2.0e-7
+250,dot,2.0e-7
+250,dot,2.0e-7
+260,dot,2.0e-7
+260,dot,1.0e-7
+260,dot,1.0e-7
+260,dot,1.0e-7
+260,dot,2.0e-7
+260,dot,2.0e-7
+260,dot,2.0e-7
+260,dot,1.0e-7
+260,dot,1.0e-7
+260,dot,1.0e-7
+270,dot,2.0e-7
+270,dot,2.0e-7
+270,dot,2.0e-7
+270,dot,1.0e-7
+270,dot,2.0e-7
+270,dot,1.0e-7
+270,dot,2.0e-7
+270,dot,1.0e-7
+270,dot,2.0e-7
+270,dot,2.0e-7
+280,dot,2.0e-7
+280,dot,1.0e-7
+280,dot,1.0e-7
+280,dot,2.0e-7
+280,dot,2.0e-7
+280,dot,1.0e-7
+280,dot,2.0e-7
+280,dot,2.0e-7
+280,dot,3.0e-7
+280,dot,4.0e-7
+290,dot,2.0e-7
+290,dot,2.0e-7
+290,dot,1.0e-7
+290,dot,1.0e-7
+290,dot,2.0e-7
+290,dot,2.0e-7
+290,dot,1.0e-7
+290,dot,1.0e-7
+290,dot,1.0e-7
+290,dot,2.0e-7
+300,dot,1.0e-7
+300,dot,1.0e-7
+300,dot,2.0e-7
+300,dot,2.0e-7
+300,dot,2.0e-7
+300,dot,1.0e-7
+300,dot,2.0e-7
+300,dot,2.0e-7
+300,dot,2.0e-7
+300,dot,2.0e-7
+310,dot,2.0e-7
+310,dot,2.0e-7
+310,dot,2.0e-7
+310,dot,2.0e-7
+310,dot,2.0e-7
+310,dot,2.0e-7
+310,dot,2.0e-7
+310,dot,2.0e-7
+310,dot,2.0e-7
+310,dot,2.0e-7
+320,dot,2.0e-7
+320,dot,1.0e-7
+320,dot,1.0e-7
+320,dot,1.0e-7
+320,dot,1.0e-7
+320,dot,1.0e-7
+320,dot,2.0e-7
+320,dot,2.0e-7
+320,dot,2.0e-7
+320,dot,1.0e-7
+330,dot,1.0e-7
+330,dot,2.0e-7
+330,dot,2.0e-7
+330,dot,2.0e-7
+330,dot,2.0e-7
+330,dot,2.0e-7
+330,dot,1.0e-7
+330,dot,1.0e-7
+330,dot,2.0e-7
+330,dot,1.0e-7
+340,dot,1.0e-7
+340,dot,2.0e-7
+340,dot,2.0e-7
+340,dot,2.0e-7
+340,dot,2.0e-7
+340,dot,2.0e-7
+340,dot,2.0e-7
+340,dot,1.0e-7
+340,dot,2.0e-7
+340,dot,1.0e-7
+350,dot,2.0e-7
+350,dot,2.0e-7
+350,dot,2.0e-7
+350,dot,2.0e-7
+350,dot,2.0e-7
+350,dot,2.0e-7
+350,dot,2.0e-7
+350,dot,2.0e-7
+350,dot,1.0e-7
+350,dot,2.0e-7
+360,dot,3.0e-7
+360,dot,1.0e-7
+360,dot,2.0e-7
+360,dot,1.0e-7
+360,dot,2.0e-7
+360,dot,2.0e-7
+360,dot,2.0e-7
+360,dot,2.0e-7
+360,dot,2.0e-7
+360,dot,2.0e-7
+370,dot,2.0e-7
+370,dot,2.0e-7
+370,dot,1.0e-7
+370,dot,2.0e-7
+370,dot,1.0e-7
+370,dot,1.0e-7
+370,dot,2.0e-7
+370,dot,1.0e-7
+370,dot,2.0e-7
+370,dot,2.0e-7
+380,dot,2.0e-7
+380,dot,2.0e-7
+380,dot,2.0e-7
+380,dot,2.0e-7
+380,dot,2.0e-7
+380,dot,1.0e-7
+380,dot,2.0e-7
+380,dot,2.0e-7
+380,dot,2.0e-7
+380,dot,2.0e-7
+390,dot,1.0e-7
+390,dot,2.0e-7
+390,dot,2.0e-7
+390,dot,2.0e-7
+390,dot,2.0e-7
+390,dot,2.0e-7
+390,dot,2.0e-7
+390,dot,1.0e-7
+390,dot,2.0e-7
+390,dot,2.0e-7
+400,dot,2.0e-7
+400,dot,2.0e-7
+400,dot,1.0e-7
+400,dot,2.0e-7
+400,dot,2.0e-7
+400,dot,1.0e-7
+400,dot,1.0e-7
+400,dot,1.0e-7
+400,dot,2.0e-7
+400,dot,2.0e-7
+410,dot,2.0e-7
+410,dot,2.0e-7
+410,dot,2.0e-7
+410,dot,2.0e-7
+410,dot,1.0e-7
+410,dot,2.0e-7
+410,dot,1.0e-7
+410,dot,2.0e-7
+410,dot,1.0e-7
+410,dot,1.0e-7
+420,dot,2.0e-7
+420,dot,2.0e-7
+420,dot,2.0e-7
+420,dot,2.0e-7
+420,dot,2.0e-7
+420,dot,1.0e-7
+420,dot,1.0e-7
+420,dot,1.0e-7
+420,dot,2.0e-7
+420,dot,2.0e-7
+430,dot,2.0e-7
+430,dot,2.0e-7
+430,dot,2.0e-7
+430,dot,2.0e-7
+430,dot,2.0e-7
+430,dot,2.0e-7
+430,dot,2.0e-7
+430,dot,2.0e-7
+430,dot,2.0e-7
+430,dot,2.0e-7
+440,dot,2.0e-7
+440,dot,2.0e-7
+440,dot,2.0e-7
+440,dot,1.0e-7
+440,dot,2.0e-7
+440,dot,2.0e-7
+440,dot,2.0e-7
+440,dot,2.0e-7
+440,dot,2.0e-7
+440,dot,2.0e-7
+450,dot,2.0e-7
+450,dot,2.0e-7
+450,dot,2.0e-7
+450,dot,1.0e-7
+450,dot,2.0e-7
+450,dot,1.0e-7
+450,dot,2.0e-7
+450,dot,1.0e-7
+450,dot,2.0e-7
+450,dot,1.0e-7
+460,dot,2.0e-7
+460,dot,2.0e-7
+460,dot,2.0e-7
+460,dot,2.0e-7
+460,dot,2.0e-7
+460,dot,2.0e-7
+460,dot,1.0e-7
+460,dot,2.0e-7
+460,dot,2.0e-7
+460,dot,2.0e-7
+470,dot,2.0e-7
+470,dot,2.0e-7
+470,dot,2.0e-7
+470,dot,2.0e-7
+470,dot,2.0e-7
+470,dot,2.0e-7
+470,dot,2.0e-7
+470,dot,1.0e-7
+470,dot,2.0e-7
+470,dot,1.0e-7
+480,dot,2.0e-7
+480,dot,2.0e-7
+480,dot,2.0e-7
+480,dot,1.0e-7
+480,dot,2.0e-7
+480,dot,2.0e-7
+480,dot,2.0e-7
+480,dot,2.0e-7
+480,dot,2.0e-7
+480,dot,2.0e-7
+490,dot,2.0e-7
+490,dot,2.0e-7
+490,dot,2.0e-7
+490,dot,3.0e-7
+490,dot,2.0e-7
+490,dot,2.0e-7
+490,dot,2.0e-7
+490,dot,2.0e-7
+490,dot,2.0e-7
+490,dot,2.0e-7
+500,dot,2.0e-7
+500,dot,2.0e-7
+500,dot,2.0e-7
+500,dot,2.0e-7
+500,dot,2.0e-7
+500,dot,2.0e-7
+500,dot,2.0e-7
+500,dot,2.0e-7
+500,dot,2.0e-7
+500,dot,2.0e-7
+510,dot,2.0e-7
+510,dot,2.0e-7
+510,dot,2.0e-7
+510,dot,2.0e-7
+510,dot,2.0e-7
+510,dot,2.0e-7
+510,dot,2.0e-7
+510,dot,2.0e-7
+510,dot,2.0e-7
+510,dot,2.0e-7
+520,dot,2.0e-7
+520,dot,1.0e-7
+520,dot,2.0e-7
+520,dot,2.0e-7
+520,dot,2.0e-7
+520,dot,2.0e-7
+520,dot,2.0e-7
+520,dot,2.0e-7
+520,dot,2.0e-7
+520,dot,2.0e-7
+530,dot,2.0e-7
+530,dot,2.0e-7
+530,dot,2.0e-7
+530,dot,1.0e-7
+530,dot,2.0e-7
+530,dot,1.0e-7
+530,dot,2.0e-7
+530,dot,1.0e-7
+530,dot,2.0e-7
+530,dot,2.0e-7
+540,dot,2.0e-7
+540,dot,2.0e-7
+540,dot,2.0e-7
+540,dot,2.0e-7
+540,dot,2.0e-7
+540,dot,2.0e-7
+540,dot,1.3e-6
+540,dot,3.0e-7
+540,dot,2.0e-7
+540,dot,3.0e-7
+550,dot,3.0e-7
+550,dot,3.0e-7
+550,dot,2.0e-7
+550,dot,2.0e-7
+550,dot,2.0e-7
+550,dot,2.0e-7
+550,dot,3.0e-7
+550,dot,3.0e-7
+550,dot,3.0e-7
+550,dot,2.0e-7
+560,dot,2.0e-7
+560,dot,3.0e-7
+560,dot,3.0e-7
+560,dot,2.0e-7
+560,dot,2.0e-7
+560,dot,2.0e-7
+560,dot,2.0e-7
+560,dot,2.0e-7
+560,dot,2.0e-7
+560,dot,2.0e-7
+570,dot,3.0e-7
+570,dot,2.0e-7
+570,dot,2.0e-7
+570,dot,3.0e-7
+570,dot,3.0e-7
+570,dot,2.0e-7
+570,dot,3.0e-7
+570,dot,2.0e-7
+570,dot,2.0e-7
+570,dot,2.0e-7
+580,dot,2.0e-7
+580,dot,3.0e-7
+580,dot,3.0e-7
+580,dot,2.0e-7
+580,dot,2.0e-7
+580,dot,2.0e-7
+580,dot,2.0e-7
+580,dot,2.0e-7
+580,dot,2.0e-7
+580,dot,2.0e-7
+590,dot,3.0e-7
+590,dot,3.0e-7
+590,dot,3.0e-7
+590,dot,2.0e-7
+590,dot,3.0e-7
+590,dot,2.0e-7
+590,dot,3.0e-7
+590,dot,2.0e-7
+590,dot,3.0e-7
+590,dot,3.0e-7
+600,dot,2.0e-7
+600,dot,2.0e-7
+600,dot,2.0e-7
+600,dot,3.0e-7
+600,dot,2.0e-7
+600,dot,3.0e-7
+600,dot,2.0e-7
+600,dot,2.0e-7
+600,dot,2.0e-7
+600,dot,3.0e-7
+610,dot,3.0e-7
+610,dot,2.0e-7
+610,dot,3.0e-7
+610,dot,3.0e-7
+610,dot,3.0e-7
+610,dot,3.0e-7
+610,dot,3.0e-7
+610,dot,2.0e-7
+610,dot,2.0e-7
+610,dot,3.0e-7
+620,dot,3.0e-7
+620,dot,2.0e-7
+620,dot,3.0e-7
+620,dot,3.0e-7
+620,dot,3.0e-7
+620,dot,3.0e-7
+620,dot,2.0e-7
+620,dot,2.0e-7
+620,dot,3.0e-7
+620,dot,3.0e-7
+630,dot,2.0e-7
+630,dot,3.0e-7
+630,dot,3.0e-7
+630,dot,3.0e-7
+630,dot,3.0e-7
+630,dot,2.0e-7
+630,dot,2.0e-7
+630,dot,2.0e-7
+630,dot,2.0e-7
+630,dot,2.0e-7
+640,dot,3.0e-7
+640,dot,3.0e-7
+640,dot,3.0e-7
+640,dot,3.0e-7
+640,dot,2.0e-7
+640,dot,2.0e-7
+640,dot,2.0e-7
+640,dot,2.0e-7
+640,dot,6.0e-7
+640,dot,2.0e-7
+650,dot,3.0e-7
+650,dot,3.0e-7
+650,dot,2.0e-7
+650,dot,4.0e-7
+650,dot,3.0e-7
+650,dot,2.0e-7
+650,dot,3.0e-7
+650,dot,2.0e-7
+650,dot,3.0e-7
+650,dot,3.0e-7
+660,dot,2.0e-7
+660,dot,3.0e-7
+660,dot,3.0e-7
+660,dot,3.0e-7
+660,dot,3.0e-7
+660,dot,3.0e-7
+660,dot,2.0e-7
+660,dot,2.0e-7
+660,dot,2.0e-7
+660,dot,3.0e-7
+670,dot,3.0e-7
+670,dot,3.0e-7
+670,dot,3.0e-7
+670,dot,3.0e-7
+670,dot,3.0e-7
+670,dot,2.0e-7
+670,dot,3.0e-7
+670,dot,3.0e-7
+670,dot,3.0e-7
+670,dot,3.0e-7
+680,dot,2.0e-7
+680,dot,3.0e-7
+680,dot,3.0e-7
+680,dot,3.0e-7
+680,dot,3.0e-7
+680,dot,3.0e-7
+680,dot,3.0e-7
+680,dot,2.0e-7
+680,dot,2.0e-7
+680,dot,3.0e-7
+690,dot,3.0e-7
+690,dot,3.0e-7
+690,dot,3.0e-7
+690,dot,3.0e-7
+690,dot,2.0e-7
+690,dot,2.0e-7
+690,dot,2.0e-7
+690,dot,2.0e-7
+690,dot,3.0e-7
+690,dot,2.0e-7
+700,dot,3.0e-7
+700,dot,2.0e-7
+700,dot,3.0e-7
+700,dot,3.0e-7
+700,dot,3.0e-7
+700,dot,3.0e-7
+700,dot,2.0e-7
+700,dot,4.0e-7
+700,dot,2.0e-7
+700,dot,2.0e-7
+710,dot,3.0e-7
+710,dot,3.0e-7
+710,dot,3.0e-7
+710,dot,3.0e-7
+710,dot,3.0e-7
+710,dot,3.0e-7
+710,dot,3.0e-7
+710,dot,3.0e-7
+710,dot,3.0e-7
+710,dot,3.0e-7
+720,dot,2.0e-7
+720,dot,3.0e-7
+720,dot,3.0e-7
+720,dot,3.0e-7
+720,dot,3.0e-7
+720,dot,3.0e-7
+720,dot,3.0e-7
+720,dot,2.0e-7
+720,dot,3.0e-7
+720,dot,3.0e-7
+730,dot,3.0e-7
+730,dot,2.0e-7
+730,dot,3.0e-7
+730,dot,3.0e-7
+730,dot,3.0e-7
+730,dot,2.0e-7
+730,dot,3.0e-7
+730,dot,3.0e-7
+730,dot,2.0e-7
+730,dot,3.0e-7
+740,dot,3.0e-7
+740,dot,3.0e-7
+740,dot,2.0e-7
+740,dot,2.0e-7
+740,dot,2.0e-7
+740,dot,3.0e-7
+740,dot,2.0e-7
+740,dot,3.0e-7
+740,dot,3.0e-7
+740,dot,2.0e-7
+750,dot,3.0e-7
+750,dot,3.0e-7
+750,dot,3.0e-7
+750,dot,3.0e-7
+750,dot,3.0e-7
+750,dot,3.0e-7
+750,dot,3.0e-7
+750,dot,3.0e-7
+750,dot,3.0e-7
+750,dot,3.0e-7
+760,dot,3.0e-7
+760,dot,3.0e-7
+760,dot,3.0e-7
+760,dot,3.0e-7
+760,dot,3.0e-7
+760,dot,3.0e-7
+760,dot,2.0e-7
+760,dot,3.0e-7
+760,dot,3.0e-7
+760,dot,3.0e-7
+770,dot,3.0e-7
+770,dot,2.0e-7
+770,dot,6.0e-7
+770,dot,3.0e-7
+770,dot,3.0e-7
+770,dot,3.0e-7
+770,dot,3.0e-7
+770,dot,2.0e-7
+770,dot,2.0e-7
+770,dot,3.0e-7
+780,dot,3.0e-7
+780,dot,3.0e-7
+780,dot,2.0e-7
+780,dot,3.0e-7
+780,dot,3.0e-7
+780,dot,3.0e-7
+780,dot,4.0e-7
+780,dot,6.0e-7
+780,dot,5.0e-7
+780,dot,3.0e-7
+790,dot,3.0e-7
+790,dot,2.0e-7
+790,dot,3.0e-7
+790,dot,3.0e-7
+790,dot,3.0e-7
+790,dot,3.0e-7
+790,dot,5.0e-7
+790,dot,4.0e-7
+790,dot,3.0e-7
+790,dot,4.0e-7
+800,dot,3.0e-7
+800,dot,9.0e-7
+800,dot,2.0e-7
+800,dot,2.0e-7
+800,dot,2.0e-7
+800,dot,3.0e-7
+800,dot,3.0e-7
+800,dot,3.0e-7
+800,dot,2.0e-7
+800,dot,3.0e-7
+810,dot,3.0e-7
+810,dot,3.0e-7
+810,dot,3.0e-7
+810,dot,3.0e-7
+810,dot,3.0e-7
+810,dot,3.0e-7
+810,dot,3.0e-7
+810,dot,6.0e-7
+810,dot,4.0e-7
+810,dot,3.0e-7
+820,dot,6.0e-7
+820,dot,3.0e-7
+820,dot,3.0e-7
+820,dot,3.0e-7
+820,dot,6.0e-7
+820,dot,3.0e-7
+820,dot,4.0e-7
+820,dot,3.0e-7
+820,dot,3.0e-7
+820,dot,3.0e-7
+830,dot,4.0e-7
+830,dot,4.0e-7
+830,dot,3.0e-7
+830,dot,4.0e-7
+830,dot,4.0e-7
+830,dot,3.0e-7
+830,dot,3.0e-7
+830,dot,7.0e-7
+830,dot,5.0e-7
+830,dot,1.2e-6
+840,dot,3.0e-7
+840,dot,3.0e-7
+840,dot,3.0e-7
+840,dot,4.0e-7
+840,dot,3.0e-7
+840,dot,3.0e-7
+840,dot,3.0e-7
+840,dot,3.0e-7
+840,dot,3.0e-7
+840,dot,3.0e-7
+850,dot,3.0e-7
+850,dot,3.0e-7
+850,dot,3.0e-7
+850,dot,3.0e-7
+850,dot,3.0e-7
+850,dot,3.0e-7
+850,dot,3.0e-7
+850,dot,3.0e-7
+850,dot,4.0e-7
+850,dot,3.0e-7
+860,dot,3.0e-7
+860,dot,3.0e-7
+860,dot,4.0e-7
+860,dot,4.0e-7
+860,dot,4.0e-7
+860,dot,3.0e-7
+860,dot,3.0e-7
+860,dot,4.0e-7
+860,dot,3.0e-7
+860,dot,3.0e-7
+870,dot,3.0e-7
+870,dot,3.0e-7
+870,dot,3.0e-7
+870,dot,3.0e-7
+870,dot,3.0e-7
+870,dot,3.0e-7
+870,dot,3.0e-7
+870,dot,3.0e-7
+870,dot,3.0e-7
+870,dot,4.0e-7
+880,dot,2.0e-7
+880,dot,3.0e-7
+880,dot,3.0e-7
+880,dot,2.0e-7
+880,dot,3.0e-7
+880,dot,3.0e-7
+880,dot,3.0e-7
+880,dot,3.0e-7
+880,dot,3.0e-7
+880,dot,3.0e-7
+890,dot,4.0e-7
+890,dot,3.0e-7
+890,dot,3.0e-7
+890,dot,3.0e-7
+890,dot,3.0e-7
+890,dot,3.0e-7
+890,dot,3.0e-7
+890,dot,3.0e-7
+890,dot,4.0e-7
+890,dot,4.0e-7
+900,dot,3.0e-7
+900,dot,5.0e-7
+900,dot,3.0e-7
+900,dot,3.0e-7
+900,dot,3.0e-7
+900,dot,4.0e-7
+900,dot,3.0e-7
+900,dot,3.0e-7
+900,dot,3.0e-7
+900,dot,3.0e-7
+910,dot,4.0e-7
+910,dot,3.0e-7
+910,dot,4.0e-7
+910,dot,3.0e-7
+910,dot,3.0e-7
+910,dot,3.0e-7
+910,dot,3.0e-7
+910,dot,4.0e-7
+910,dot,3.0e-7
+910,dot,3.0e-7
+920,dot,4.0e-7
+920,dot,3.0e-7
+920,dot,3.0e-7
+920,dot,3.0e-7
+920,dot,3.0e-7
+920,dot,3.0e-7
+920,dot,3.0e-7
+920,dot,3.0e-7
+920,dot,3.0e-7
+920,dot,3.0e-7
+930,dot,4.0e-7
+930,dot,3.0e-7
+930,dot,3.0e-7
+930,dot,3.0e-7
+930,dot,4.0e-7
+930,dot,3.0e-7
+930,dot,3.0e-7
+930,dot,3.0e-7
+930,dot,3.0e-7
+930,dot,3.0e-7
+940,dot,3.0e-7
+940,dot,3.0e-7
+940,dot,3.0e-7
+940,dot,3.0e-7
+940,dot,3.0e-7
+940,dot,3.0e-7
+940,dot,3.0e-7
+940,dot,3.0e-7
+940,dot,4.0e-7
+940,dot,3.0e-7
+950,dot,4.0e-7
+950,dot,4.0e-7
+950,dot,3.0e-7
+950,dot,3.0e-7
+950,dot,3.0e-7
+950,dot,3.0e-7
+950,dot,3.0e-7
+950,dot,3.0e-7
+950,dot,3.0e-7
+950,dot,4.0e-7
+960,dot,4.0e-7
+960,dot,3.0e-7
+960,dot,3.0e-7
+960,dot,3.0e-7
+960,dot,3.0e-7
+960,dot,1.0e-6
+960,dot,3.0e-7
+960,dot,4.0e-7
+960,dot,3.0e-7
+960,dot,4.0e-7
+970,dot,3.0e-7
+970,dot,3.0e-7
+970,dot,4.0e-7
+970,dot,3.0e-7
+970,dot,3.0e-7
+970,dot,3.0e-7
+970,dot,3.0e-7
+970,dot,3.0e-7
+970,dot,3.0e-7
+970,dot,3.0e-7
+980,dot,3.0e-7
+980,dot,3.0e-7
+980,dot,3.0e-7
+980,dot,4.0e-7
+980,dot,3.0e-7
+980,dot,3.0e-7
+980,dot,3.0e-7
+980,dot,3.0e-7
+980,dot,3.0e-7
+980,dot,3.0e-7
+990,dot,4.0e-7
+990,dot,3.0e-7
+990,dot,3.0e-7
+990,dot,3.0e-7
+990,dot,3.0e-7
+990,dot,4.0e-7
+990,dot,3.0e-7
+990,dot,3.0e-7
+990,dot,3.0e-7
+990,dot,3.0e-7
+1000,dot,3.0e-7
+1000,dot,4.0e-7
+1000,dot,4.0e-7
+1000,dot,3.0e-7
+1000,dot,3.0e-7
+1000,dot,3.0e-7
+1000,dot,3.0e-7
+1000,dot,3.0e-7
+1000,dot,4.0e-7
+1000,dot,3.0e-7
+10,matrix multiplication,4.8e-6
+10,matrix multiplication,3.0e-7
+10,matrix multiplication,4.0e-7
+10,matrix multiplication,4.0e-7
+10,matrix multiplication,4.0e-7
+10,matrix multiplication,4.0e-7
+10,matrix multiplication,4.0e-7
+10,matrix multiplication,4.0e-7
+10,matrix multiplication,4.0e-7
+10,matrix multiplication,4.0e-7
+20,matrix multiplication,7.0e-7
+20,matrix multiplication,5.0e-7
+20,matrix multiplication,4.0e-7
+20,matrix multiplication,4.0e-7
+20,matrix multiplication,4.0e-7
+20,matrix multiplication,5.0e-7
+20,matrix multiplication,4.0e-7
+20,matrix multiplication,3.0e-7
+20,matrix multiplication,4.0e-7
+20,matrix multiplication,7.0e-6
+30,matrix multiplication,8.0e-7
+30,matrix multiplication,6.0e-7
+30,matrix multiplication,6.0e-7
+30,matrix multiplication,5.0e-7
+30,matrix multiplication,6.0e-7
+30,matrix multiplication,6.0e-7
+30,matrix multiplication,6.0e-7
+30,matrix multiplication,6.0e-7
+30,matrix multiplication,6.0e-7
+30,matrix multiplication,7.0e-7
+40,matrix multiplication,9.0e-7
+40,matrix multiplication,7.0e-7
+40,matrix multiplication,8.0e-7
+40,matrix multiplication,7.0e-7
+40,matrix multiplication,8.0e-7
+40,matrix multiplication,8.0e-7
+40,matrix multiplication,8.0e-7
+40,matrix multiplication,8.0e-7
+40,matrix multiplication,7.0e-7
+40,matrix multiplication,8.0e-7
+50,matrix multiplication,1.5e-6
+50,matrix multiplication,1.2e-6
+50,matrix multiplication,1.5e-6
+50,matrix multiplication,1.2e-6
+50,matrix multiplication,1.1e-6
+50,matrix multiplication,1.2e-6
+50,matrix multiplication,1.0e-6
+50,matrix multiplication,1.1e-6
+50,matrix multiplication,1.1e-6
+50,matrix multiplication,1.2e-6
+60,matrix multiplication,1.3e-6
+60,matrix multiplication,1.3e-6
+60,matrix multiplication,1.3e-6
+60,matrix multiplication,1.3e-6
+60,matrix multiplication,1.4e-6
+60,matrix multiplication,1.5e-6
+60,matrix multiplication,1.3e-6
+60,matrix multiplication,1.3e-6
+60,matrix multiplication,1.3e-6
+60,matrix multiplication,1.9e-6
+70,matrix multiplication,2.9e-6
+70,matrix multiplication,2.1e-6
+70,matrix multiplication,2.1e-6
+70,matrix multiplication,2.1e-6
+70,matrix multiplication,2.1e-6
+70,matrix multiplication,2.1e-6
+70,matrix multiplication,2.0e-6
+70,matrix multiplication,3.0e-6
+70,matrix multiplication,2.1e-6
+70,matrix multiplication,3.1e-6
+80,matrix multiplication,2.5e-6
+80,matrix multiplication,2.1e-6
+80,matrix multiplication,2.2e-6
+80,matrix multiplication,3.2e-6
+80,matrix multiplication,2.3e-6
+80,matrix multiplication,2.4e-6
+80,matrix multiplication,2.4e-6
+80,matrix multiplication,2.4e-6
+80,matrix multiplication,2.2e-6
+80,matrix multiplication,2.5e-6
+90,matrix multiplication,3.9e-6
+90,matrix multiplication,3.9e-6
+90,matrix multiplication,3.5e-6
+90,matrix multiplication,3.2e-6
+90,matrix multiplication,3.4e-6
+90,matrix multiplication,3.4e-6
+90,matrix multiplication,3.5e-6
+90,matrix multiplication,3.2e-6
+90,matrix multiplication,3.2e-6
+90,matrix multiplication,3.3e-6
+100,matrix multiplication,0.000375
+100,matrix multiplication,0.0003673
+100,matrix multiplication,0.000361
+100,matrix multiplication,0.0003573
+100,matrix multiplication,0.0003315
+100,matrix multiplication,0.0003719
+100,matrix multiplication,0.0003616
+100,matrix multiplication,0.0003629
+100,matrix multiplication,0.0003722
+100,matrix multiplication,0.000374
+110,matrix multiplication,0.0003697
+110,matrix multiplication,0.0003499
+110,matrix multiplication,0.0002688
+110,matrix multiplication,0.00037
+110,matrix multiplication,0.0002586
+110,matrix multiplication,0.0002301
+110,matrix multiplication,0.0002764
+110,matrix multiplication,0.0002797
+110,matrix multiplication,0.0002772
+110,matrix multiplication,0.0002571
+120,matrix multiplication,0.0002555
+120,matrix multiplication,0.0002251
+120,matrix multiplication,0.000254
+120,matrix multiplication,0.0002591
+120,matrix multiplication,0.0002399
+120,matrix multiplication,0.0003287
+120,matrix multiplication,0.0002188
+120,matrix multiplication,0.0002034
+120,matrix multiplication,0.0003623
+120,matrix multiplication,0.0003801
+130,matrix multiplication,0.0003594
+130,matrix multiplication,0.0003524
+130,matrix multiplication,0.0003522
+130,matrix multiplication,0.0003112
+130,matrix multiplication,0.0003519
+130,matrix multiplication,0.0003115
+130,matrix multiplication,0.000359
+130,matrix multiplication,0.0003603
+130,matrix multiplication,0.0003637
+130,matrix multiplication,0.0003621
+140,matrix multiplication,0.0003524
+140,matrix multiplication,0.0003247
+140,matrix multiplication,0.0003577
+140,matrix multiplication,0.000364
+140,matrix multiplication,0.0003574
+140,matrix multiplication,0.0003205
+140,matrix multiplication,0.0003649
+140,matrix multiplication,0.0003718
+140,matrix multiplication,0.0004238
+140,matrix multiplication,0.0003479
+150,matrix multiplication,0.0003549
+150,matrix multiplication,0.0003657
+150,matrix multiplication,0.0002547
+150,matrix multiplication,0.0002629
+150,matrix multiplication,0.0003684
+150,matrix multiplication,0.0002711
+150,matrix multiplication,0.0002801
+150,matrix multiplication,0.0002885
+150,matrix multiplication,0.0002742
+150,matrix multiplication,0.0002959
+160,matrix multiplication,0.0002778
+160,matrix multiplication,0.000278
+160,matrix multiplication,0.0002658
+160,matrix multiplication,0.000282
+160,matrix multiplication,0.0002627
+160,matrix multiplication,0.0002781
+160,matrix multiplication,0.0002503
+160,matrix multiplication,0.0002849
+160,matrix multiplication,0.0002499
+160,matrix multiplication,0.0002857
+170,matrix multiplication,0.0002476
+170,matrix multiplication,0.0002994
+170,matrix multiplication,0.0002952
+170,matrix multiplication,0.0002895
+170,matrix multiplication,0.0002878
+170,matrix multiplication,0.0003054
+170,matrix multiplication,0.0003819
+170,matrix multiplication,0.0001962
+170,matrix multiplication,0.0002699
+170,matrix multiplication,0.0003325
+180,matrix multiplication,0.0001841
+180,matrix multiplication,0.0003879
+180,matrix multiplication,0.000381
+180,matrix multiplication,0.0003778
+180,matrix multiplication,0.0002871
+180,matrix multiplication,0.0002735
+180,matrix multiplication,0.0002901
+180,matrix multiplication,0.000276
+180,matrix multiplication,0.0002778
+180,matrix multiplication,0.0002824
+190,matrix multiplication,0.000272
+190,matrix multiplication,0.000287
+190,matrix multiplication,0.0002774
+190,matrix multiplication,0.000277
+190,matrix multiplication,0.0002654
+190,matrix multiplication,0.0002974
+190,matrix multiplication,0.0002829
+190,matrix multiplication,0.0002735
+190,matrix multiplication,0.0002736
+190,matrix multiplication,0.0002675
+200,matrix multiplication,0.0002625
+200,matrix multiplication,0.000272
+200,matrix multiplication,0.0003327
+200,matrix multiplication,0.0002369
+200,matrix multiplication,0.0002902
+200,matrix multiplication,0.0002708
+200,matrix multiplication,0.0003604
+200,matrix multiplication,0.000377
+200,matrix multiplication,0.0003388
+200,matrix multiplication,0.0003131
+210,matrix multiplication,0.0003876
+210,matrix multiplication,0.0003319
+210,matrix multiplication,0.0002757
+210,matrix multiplication,0.0003775
+210,matrix multiplication,0.0003345
+210,matrix multiplication,0.0003618
+210,matrix multiplication,0.0003516
+210,matrix multiplication,0.0003288
+210,matrix multiplication,0.0003185
+210,matrix multiplication,0.0003197
+220,matrix multiplication,0.0003202
+220,matrix multiplication,0.0003802
+220,matrix multiplication,0.0003489
+220,matrix multiplication,0.0003476
+220,matrix multiplication,0.0003441
+220,matrix multiplication,0.0003281
+220,matrix multiplication,0.0003208
+220,matrix multiplication,0.0003833
+220,matrix multiplication,0.0003192
+220,matrix multiplication,0.0003769
+230,matrix multiplication,0.0002083
+230,matrix multiplication,0.0003536
+230,matrix multiplication,0.0003577
+230,matrix multiplication,0.0003159
+230,matrix multiplication,0.0003359
+230,matrix multiplication,0.0004003
+230,matrix multiplication,0.000381
+230,matrix multiplication,0.0002784
+230,matrix multiplication,0.0003387
+230,matrix multiplication,0.0003458
+240,matrix multiplication,0.000361
+240,matrix multiplication,0.0003524
+240,matrix multiplication,0.0003328
+240,matrix multiplication,0.000334
+240,matrix multiplication,0.0003552
+240,matrix multiplication,0.0004038
+240,matrix multiplication,0.0002873
+240,matrix multiplication,0.0004095
+240,matrix multiplication,0.0003922
+240,matrix multiplication,0.0003749
+250,matrix multiplication,0.0003781
+250,matrix multiplication,0.0004205
+250,matrix multiplication,0.0004286
+250,matrix multiplication,0.0003012
+250,matrix multiplication,0.0003866
+250,matrix multiplication,0.0003736
+250,matrix multiplication,0.0004051
+250,matrix multiplication,0.0002584
+250,matrix multiplication,0.0003052
+250,matrix multiplication,0.0003893
+260,matrix multiplication,0.0003614
+260,matrix multiplication,0.0003793
+260,matrix multiplication,0.000391
+260,matrix multiplication,0.0003877
+260,matrix multiplication,0.0003652
+260,matrix multiplication,0.0003952
+260,matrix multiplication,0.000205
+260,matrix multiplication,0.0003614
+260,matrix multiplication,0.0003798
+260,matrix multiplication,0.0004186
+270,matrix multiplication,0.0003
+270,matrix multiplication,0.0004175
+270,matrix multiplication,0.0002991
+270,matrix multiplication,0.0004114
+270,matrix multiplication,0.0003612
+270,matrix multiplication,0.0003034
+270,matrix multiplication,0.0002754
+270,matrix multiplication,0.0003484
+270,matrix multiplication,0.0003559
+270,matrix multiplication,0.0003906
+280,matrix multiplication,0.0003626
+280,matrix multiplication,0.0004141
+280,matrix multiplication,0.0002984
+280,matrix multiplication,0.0002722
+280,matrix multiplication,0.0004231
+280,matrix multiplication,0.0003793
+280,matrix multiplication,0.0003726
+280,matrix multiplication,0.0002958
+280,matrix multiplication,0.0002904
+280,matrix multiplication,0.0002939
+290,matrix multiplication,0.0003653
+290,matrix multiplication,0.0004111
+290,matrix multiplication,0.0004392
+290,matrix multiplication,0.0002633
+290,matrix multiplication,0.0003416
+290,matrix multiplication,0.0002642
+290,matrix multiplication,0.0003648
+290,matrix multiplication,0.0003455
+290,matrix multiplication,0.0004049
+290,matrix multiplication,0.0002872
+300,matrix multiplication,0.0004349
+300,matrix multiplication,0.0003124
+300,matrix multiplication,0.0004454
+300,matrix multiplication,0.0003038
+300,matrix multiplication,0.0003662
+300,matrix multiplication,0.0002824
+300,matrix multiplication,0.0003494
+300,matrix multiplication,0.0002766
+300,matrix multiplication,0.0003169
+300,matrix multiplication,0.0004034
+310,matrix multiplication,0.0002891
+310,matrix multiplication,0.0003172
+310,matrix multiplication,0.0004449
+310,matrix multiplication,0.0003038
+310,matrix multiplication,0.0003736
+310,matrix multiplication,0.0002773
+310,matrix multiplication,0.0002285
+310,matrix multiplication,0.0001661
+310,matrix multiplication,0.0003337
+310,matrix multiplication,0.0002827
+320,matrix multiplication,0.0002997
+320,matrix multiplication,0.0002089
+320,matrix multiplication,0.0004478
+320,matrix multiplication,0.0003059
+320,matrix multiplication,0.0003609
+320,matrix multiplication,0.0003518
+320,matrix multiplication,0.0004629
+320,matrix multiplication,0.0003973
+320,matrix multiplication,0.0003715
+320,matrix multiplication,0.0003048
+330,matrix multiplication,0.0004146
+330,matrix multiplication,0.0004376
+330,matrix multiplication,0.0003947
+330,matrix multiplication,0.0004517
+330,matrix multiplication,0.0004211
+330,matrix multiplication,0.0003006
+330,matrix multiplication,0.0004146
+330,matrix multiplication,0.0003973
+330,matrix multiplication,0.0004165
+330,matrix multiplication,0.0003928
+340,matrix multiplication,0.0004177
+340,matrix multiplication,0.0002785
+340,matrix multiplication,0.0002992
+340,matrix multiplication,0.0003169
+340,matrix multiplication,0.0004589
+340,matrix multiplication,0.0004214
+340,matrix multiplication,0.0004158
+340,matrix multiplication,0.0004124
+340,matrix multiplication,0.0004039
+340,matrix multiplication,0.0004017
+350,matrix multiplication,0.0003749
+350,matrix multiplication,0.0004202
+350,matrix multiplication,0.0004056
+350,matrix multiplication,0.0004091
+350,matrix multiplication,0.0004949
+350,matrix multiplication,0.0002396
+350,matrix multiplication,0.0003884
+350,matrix multiplication,0.0003364
+350,matrix multiplication,0.0003407
+350,matrix multiplication,0.0003408
+360,matrix multiplication,0.0003385
+360,matrix multiplication,0.0002615
+360,matrix multiplication,0.0003574
+360,matrix multiplication,0.0004384
+360,matrix multiplication,0.000425
+360,matrix multiplication,0.0003597
+360,matrix multiplication,0.0004404
+360,matrix multiplication,0.000466
+360,matrix multiplication,0.0004694
+360,matrix multiplication,0.0004835
+370,matrix multiplication,0.0004878
+370,matrix multiplication,0.0002876
+370,matrix multiplication,0.0004414
+370,matrix multiplication,0.000378
+370,matrix multiplication,0.0004383
+370,matrix multiplication,0.0004012
+370,matrix multiplication,0.0002821
+370,matrix multiplication,0.0003239
+370,matrix multiplication,0.0004444
+370,matrix multiplication,0.0004413
+380,matrix multiplication,0.0003778
+380,matrix multiplication,0.000428
+380,matrix multiplication,0.0002702
+380,matrix multiplication,0.0002447
+380,matrix multiplication,0.0004431
+380,matrix multiplication,0.0004238
+380,matrix multiplication,0.000455
+380,matrix multiplication,0.0004521
+380,matrix multiplication,0.0003994
+380,matrix multiplication,0.0004504
+390,matrix multiplication,0.0004042
+390,matrix multiplication,0.0004199
+390,matrix multiplication,0.0003335
+390,matrix multiplication,0.0004712
+390,matrix multiplication,0.0004017
+390,matrix multiplication,0.0004752
+390,matrix multiplication,0.0004451
+390,matrix multiplication,0.0004349
+390,matrix multiplication,0.0004389
+390,matrix multiplication,0.0004413
+400,matrix multiplication,0.0003887
+400,matrix multiplication,0.0004508
+400,matrix multiplication,0.0004459
+400,matrix multiplication,0.000453
+400,matrix multiplication,0.0004455
+400,matrix multiplication,0.0004722
+400,matrix multiplication,0.0003734
+400,matrix multiplication,0.0002609
+400,matrix multiplication,0.0002654
+400,matrix multiplication,0.0002227
+410,matrix multiplication,0.0002167
+410,matrix multiplication,0.0002179
+410,matrix multiplication,0.0002186
+410,matrix multiplication,0.0002072
+410,matrix multiplication,0.0002213
+410,matrix multiplication,0.0001866
+410,matrix multiplication,0.0001974
+410,matrix multiplication,0.0001928
+410,matrix multiplication,0.0002709
+410,matrix multiplication,0.0002903
+420,matrix multiplication,0.000269
+420,matrix multiplication,0.0002757
+420,matrix multiplication,0.0002903
+420,matrix multiplication,0.0002515
+420,matrix multiplication,0.0004544
+420,matrix multiplication,0.0003802
+420,matrix multiplication,0.0004143
+420,matrix multiplication,0.0003887
+420,matrix multiplication,0.0004273
+420,matrix multiplication,0.0003666
+430,matrix multiplication,0.0004582
+430,matrix multiplication,0.0004604
+430,matrix multiplication,0.0004414
+430,matrix multiplication,0.0004385
+430,matrix multiplication,0.0004429
+430,matrix multiplication,0.0004498
+430,matrix multiplication,0.000449
+430,matrix multiplication,0.0004441
+430,matrix multiplication,0.0004451
+430,matrix multiplication,0.0004433
+440,matrix multiplication,0.0005039
+440,matrix multiplication,0.0003722
+440,matrix multiplication,0.0002614
+440,matrix multiplication,0.000451
+440,matrix multiplication,0.0004799
+440,matrix multiplication,0.0004292
+440,matrix multiplication,0.0004159
+440,matrix multiplication,0.0004753
+440,matrix multiplication,0.0004645
+440,matrix multiplication,0.0004348
+450,matrix multiplication,0.0003712
+450,matrix multiplication,0.0005017
+450,matrix multiplication,0.0004536
+450,matrix multiplication,0.0004929
+450,matrix multiplication,0.0003968
+450,matrix multiplication,0.0003767
+450,matrix multiplication,0.0003527
+450,matrix multiplication,0.0004147
+450,matrix multiplication,0.0002974
+450,matrix multiplication,0.0002971
+460,matrix multiplication,0.0003888
+460,matrix multiplication,0.000394
+460,matrix multiplication,0.0003471
+460,matrix multiplication,0.0003179
+460,matrix multiplication,0.0004616
+460,matrix multiplication,0.0004566
+460,matrix multiplication,0.0003588
+460,matrix multiplication,0.0004638
+460,matrix multiplication,0.0003392
+460,matrix multiplication,0.0003715
+470,matrix multiplication,0.0003364
+470,matrix multiplication,0.0004334
+470,matrix multiplication,0.0004246
+470,matrix multiplication,0.000419
+470,matrix multiplication,0.0004259
+470,matrix multiplication,0.0004517
+470,matrix multiplication,0.0004523
+470,matrix multiplication,0.0004883
+470,matrix multiplication,0.0004382
+470,matrix multiplication,0.0004638
+480,matrix multiplication,0.000465
+480,matrix multiplication,0.0004821
+480,matrix multiplication,0.0004844
+480,matrix multiplication,0.0003033
+480,matrix multiplication,0.0005105
+480,matrix multiplication,0.0005045
+480,matrix multiplication,0.0004932
+480,matrix multiplication,0.0002286
+480,matrix multiplication,0.0004563
+480,matrix multiplication,0.0003779
+490,matrix multiplication,0.0003741
+490,matrix multiplication,0.0003375
+490,matrix multiplication,0.0003215
+490,matrix multiplication,0.0004993
+490,matrix multiplication,0.0004197
+490,matrix multiplication,0.000389
+490,matrix multiplication,0.0003864
+490,matrix multiplication,0.000384
+490,matrix multiplication,0.0003757
+490,matrix multiplication,0.0003843
+500,matrix multiplication,0.000425
+500,matrix multiplication,0.0004155
+500,matrix multiplication,0.0003908
+500,matrix multiplication,0.0004114
+500,matrix multiplication,0.000429
+500,matrix multiplication,0.0003824
+500,matrix multiplication,0.000306
+500,matrix multiplication,0.0005055
+500,matrix multiplication,0.0003169
+500,matrix multiplication,0.0004689
+510,matrix multiplication,0.0005106
+510,matrix multiplication,0.0003489
+510,matrix multiplication,0.0003854
+510,matrix multiplication,0.0005132
+510,matrix multiplication,0.0003823
+510,matrix multiplication,0.0003806
+510,matrix multiplication,0.000264
+510,matrix multiplication,0.000304
+510,matrix multiplication,0.0003769
+510,matrix multiplication,0.000324
+520,matrix multiplication,0.0005305
+520,matrix multiplication,0.000375
+520,matrix multiplication,0.0005122
+520,matrix multiplication,0.0004825
+520,matrix multiplication,0.0003588
+520,matrix multiplication,0.0004026
+520,matrix multiplication,0.0004017
+520,matrix multiplication,0.0003388
+520,matrix multiplication,0.0003248
+520,matrix multiplication,0.0003835
+530,matrix multiplication,0.0003968
+530,matrix multiplication,0.0003578
+530,matrix multiplication,0.0003278
+530,matrix multiplication,0.0004802
+530,matrix multiplication,0.0003371
+530,matrix multiplication,0.0002909
+530,matrix multiplication,0.0004536
+530,matrix multiplication,0.0003027
+530,matrix multiplication,0.0003092
+530,matrix multiplication,0.0003316
+540,matrix multiplication,0.000399
+540,matrix multiplication,0.0003157
+540,matrix multiplication,0.0004871
+540,matrix multiplication,0.0003218
+540,matrix multiplication,0.0004123
+540,matrix multiplication,0.0003143
+540,matrix multiplication,0.0003398
+540,matrix multiplication,0.0003199
+540,matrix multiplication,0.0004017
+540,matrix multiplication,0.0002838
+550,matrix multiplication,0.0003973
+550,matrix multiplication,0.0004941
+550,matrix multiplication,0.0003918
+550,matrix multiplication,0.0004756
+550,matrix multiplication,0.0002463
+550,matrix multiplication,0.0004548
+550,matrix multiplication,0.0002934
+550,matrix multiplication,0.0002687
+550,matrix multiplication,0.0002852
+550,matrix multiplication,0.0002919
+560,matrix multiplication,0.0003357
+560,matrix multiplication,0.0003381
+560,matrix multiplication,0.0002427
+560,matrix multiplication,0.0002945
+560,matrix multiplication,0.0002386
+560,matrix multiplication,0.0002719
+560,matrix multiplication,0.0002614
+560,matrix multiplication,0.0002804
+560,matrix multiplication,0.000294
+560,matrix multiplication,0.0002578
+570,matrix multiplication,0.000243
+570,matrix multiplication,0.0002229
+570,matrix multiplication,0.0001952
+570,matrix multiplication,0.0002101
+570,matrix multiplication,0.0002108
+570,matrix multiplication,0.0001993
+570,matrix multiplication,0.0002475
+570,matrix multiplication,0.0002693
+570,matrix multiplication,0.0002002
+570,matrix multiplication,0.0002802
+580,matrix multiplication,0.000198
+580,matrix multiplication,0.0002026
+580,matrix multiplication,0.0002824
+580,matrix multiplication,0.0002034
+580,matrix multiplication,0.0002234
+580,matrix multiplication,0.0001865
+580,matrix multiplication,0.0002977
+580,matrix multiplication,0.0002375
+580,matrix multiplication,0.0002796
+580,matrix multiplication,0.0002903
+590,matrix multiplication,0.0002165
+590,matrix multiplication,0.0002051
+590,matrix multiplication,0.0003991
+590,matrix multiplication,0.0002159
+590,matrix multiplication,0.000213
+590,matrix multiplication,0.000291
+590,matrix multiplication,0.0003308
+590,matrix multiplication,0.0003782
+590,matrix multiplication,0.0003788
+590,matrix multiplication,0.0004088
+600,matrix multiplication,0.0003873
+600,matrix multiplication,0.0006002
+600,matrix multiplication,0.0003194
+600,matrix multiplication,0.0003844
+600,matrix multiplication,0.0003481
+600,matrix multiplication,0.0003857
+600,matrix multiplication,0.000409
+600,matrix multiplication,0.0003525
+600,matrix multiplication,0.0003567
+600,matrix multiplication,0.0005179
+610,matrix multiplication,0.0003801
+610,matrix multiplication,0.0004008
+610,matrix multiplication,0.0003943
+610,matrix multiplication,0.0003367
+610,matrix multiplication,0.0003497
+610,matrix multiplication,0.0003994
+610,matrix multiplication,0.0004149
+610,matrix multiplication,0.0003579
+610,matrix multiplication,0.0004076
+610,matrix multiplication,0.000494
+620,matrix multiplication,0.0004138
+620,matrix multiplication,0.0003573
+620,matrix multiplication,0.0003583
+620,matrix multiplication,0.0004012
+620,matrix multiplication,0.0003538
+620,matrix multiplication,0.0003959
+620,matrix multiplication,0.0003903
+620,matrix multiplication,0.0003635
+620,matrix multiplication,0.0003407
+620,matrix multiplication,0.0003898
+630,matrix multiplication,0.0003653
+630,matrix multiplication,0.0004112
+630,matrix multiplication,0.0003381
+630,matrix multiplication,0.0003827
+630,matrix multiplication,0.000388
+630,matrix multiplication,0.0003973
+630,matrix multiplication,0.0003428
+630,matrix multiplication,0.0004151
+630,matrix multiplication,0.0003838
+630,matrix multiplication,0.0004183
+640,matrix multiplication,0.0003764
+640,matrix multiplication,0.0003991
+640,matrix multiplication,0.0005778
+640,matrix multiplication,0.0003698
+640,matrix multiplication,0.0004555
+640,matrix multiplication,0.0003772
+640,matrix multiplication,0.0003723
+640,matrix multiplication,0.0003044
+640,matrix multiplication,0.000364
+640,matrix multiplication,0.0003692
+650,matrix multiplication,0.000418
+650,matrix multiplication,0.0003969
+650,matrix multiplication,0.0003772
+650,matrix multiplication,0.0003968
+650,matrix multiplication,0.000375
+650,matrix multiplication,0.0003522
+650,matrix multiplication,0.0003728
+650,matrix multiplication,0.000368
+650,matrix multiplication,0.0003768
+650,matrix multiplication,0.0003613
+660,matrix multiplication,0.0003866
+660,matrix multiplication,0.0003867
+660,matrix multiplication,0.0004089
+660,matrix multiplication,0.0004052
+660,matrix multiplication,0.0004242
+660,matrix multiplication,0.0004185
+660,matrix multiplication,0.0003577
+660,matrix multiplication,0.0003575
+660,matrix multiplication,0.0003467
+660,matrix multiplication,0.0003094
+670,matrix multiplication,0.0003813
+670,matrix multiplication,0.0003112
+670,matrix multiplication,0.000293
+670,matrix multiplication,0.0003606
+670,matrix multiplication,0.0003217
+670,matrix multiplication,0.0003942
+670,matrix multiplication,0.0004058
+670,matrix multiplication,0.0004427
+670,matrix multiplication,0.0003919
+670,matrix multiplication,0.000419
+680,matrix multiplication,0.0003902
+680,matrix multiplication,0.0003921
+680,matrix multiplication,0.000413
+680,matrix multiplication,0.0004933
+680,matrix multiplication,0.000379
+680,matrix multiplication,0.0004374
+680,matrix multiplication,0.0004704
+680,matrix multiplication,0.0003815
+680,matrix multiplication,0.0004008
+680,matrix multiplication,0.0003623
+690,matrix multiplication,0.0003833
+690,matrix multiplication,0.0003935
+690,matrix multiplication,0.0003617
+690,matrix multiplication,0.0003809
+690,matrix multiplication,0.0003829
+690,matrix multiplication,0.0004202
+690,matrix multiplication,0.0004435
+690,matrix multiplication,0.0003776
+690,matrix multiplication,0.0004262
+690,matrix multiplication,0.0004451
+700,matrix multiplication,0.0003799
+700,matrix multiplication,0.0005042
+700,matrix multiplication,0.0004633
+700,matrix multiplication,0.0004273
+700,matrix multiplication,0.0004257
+700,matrix multiplication,0.0004759
+700,matrix multiplication,0.0004751
+700,matrix multiplication,0.0003894
+700,matrix multiplication,0.0004467
+700,matrix multiplication,0.0004497
+710,matrix multiplication,0.0004258
+710,matrix multiplication,0.000392
+710,matrix multiplication,0.0004379
+710,matrix multiplication,0.000474
+710,matrix multiplication,0.000424
+710,matrix multiplication,0.0004209
+710,matrix multiplication,0.0003794
+710,matrix multiplication,0.000385
+710,matrix multiplication,0.0004234
+710,matrix multiplication,0.0003939
+720,matrix multiplication,0.0004139
+720,matrix multiplication,0.0004113
+720,matrix multiplication,0.0003944
+720,matrix multiplication,0.0004034
+720,matrix multiplication,0.0005399
+720,matrix multiplication,0.000405
+720,matrix multiplication,0.0004164
+720,matrix multiplication,0.0003981
+720,matrix multiplication,0.0004251
+720,matrix multiplication,0.000461
+730,matrix multiplication,0.0004372
+730,matrix multiplication,0.0004539
+730,matrix multiplication,0.0003981
+730,matrix multiplication,0.0004448
+730,matrix multiplication,0.0004626
+730,matrix multiplication,0.0004133
+730,matrix multiplication,0.0004046
+730,matrix multiplication,0.0003599
+730,matrix multiplication,0.0004207
+730,matrix multiplication,0.0003716
+740,matrix multiplication,0.0003389
+740,matrix multiplication,0.000395
+740,matrix multiplication,0.0003762
+740,matrix multiplication,0.000317
+740,matrix multiplication,0.0003522
+740,matrix multiplication,0.000292
+740,matrix multiplication,0.0002883
+740,matrix multiplication,0.0003545
+740,matrix multiplication,0.0003041
+740,matrix multiplication,0.0002857
+750,matrix multiplication,0.0003156
+750,matrix multiplication,0.0002904
+750,matrix multiplication,0.0002794
+750,matrix multiplication,0.0003003
+750,matrix multiplication,0.0003341
+750,matrix multiplication,0.0002632
+750,matrix multiplication,0.0002925
+750,matrix multiplication,0.0003146
+750,matrix multiplication,0.0002983
+750,matrix multiplication,0.0003756
+760,matrix multiplication,0.0005177
+760,matrix multiplication,0.0007312
+760,matrix multiplication,0.0004636
+760,matrix multiplication,0.0003685
+760,matrix multiplication,0.0005161
+760,matrix multiplication,0.0009862
+760,matrix multiplication,0.0004232
+760,matrix multiplication,0.000433
+760,matrix multiplication,0.0004835
+760,matrix multiplication,0.0004582
+770,matrix multiplication,0.0004944
+770,matrix multiplication,0.0004813
+770,matrix multiplication,0.0004543
+770,matrix multiplication,0.0004458
+770,matrix multiplication,0.0004887
+770,matrix multiplication,0.000458
+770,matrix multiplication,0.0004615
+770,matrix multiplication,0.000511
+770,matrix multiplication,0.0004397
+770,matrix multiplication,0.0004655
+780,matrix multiplication,0.0005008
+780,matrix multiplication,0.0004337
+780,matrix multiplication,0.0004417
+780,matrix multiplication,0.0004916
+780,matrix multiplication,0.0004864
+780,matrix multiplication,0.0004444
+780,matrix multiplication,0.0004151
+780,matrix multiplication,0.0004962
+780,matrix multiplication,0.0005292
+780,matrix multiplication,0.0004455
+790,matrix multiplication,0.0005113
+790,matrix multiplication,0.000519
+790,matrix multiplication,0.0005025
+790,matrix multiplication,0.0004873
+790,matrix multiplication,0.0004455
+790,matrix multiplication,0.000446
+790,matrix multiplication,0.0004806
+790,matrix multiplication,0.0004593
+790,matrix multiplication,0.0004334
+790,matrix multiplication,0.0004555
+800,matrix multiplication,0.0004268
+800,matrix multiplication,0.0004916
+800,matrix multiplication,0.0005051
+800,matrix multiplication,0.0005057
+800,matrix multiplication,0.0004945
+800,matrix multiplication,0.0008138
+800,matrix multiplication,0.0008622
+800,matrix multiplication,0.0004725
+800,matrix multiplication,0.0005268
+800,matrix multiplication,0.0004873
+810,matrix multiplication,0.0004367
+810,matrix multiplication,0.0004861
+810,matrix multiplication,0.00044
+810,matrix multiplication,0.0004589
+810,matrix multiplication,0.0004716
+810,matrix multiplication,0.0005083
+810,matrix multiplication,0.0004869
+810,matrix multiplication,0.0004595
+810,matrix multiplication,0.0004562
+810,matrix multiplication,0.0005208
+820,matrix multiplication,0.0004862
+820,matrix multiplication,0.0005388
+820,matrix multiplication,0.0004969
+820,matrix multiplication,0.0005012
+820,matrix multiplication,0.0004688
+820,matrix multiplication,0.000478
+820,matrix multiplication,0.0005134
+820,matrix multiplication,0.0005092
+820,matrix multiplication,0.0005315
+820,matrix multiplication,0.0004666
+830,matrix multiplication,0.0005009
+830,matrix multiplication,0.0004462
+830,matrix multiplication,0.000481
+830,matrix multiplication,0.0005291
+830,matrix multiplication,0.0004654
+830,matrix multiplication,0.0004925
+830,matrix multiplication,0.0005229
+830,matrix multiplication,0.0004528
+830,matrix multiplication,0.0004616
+830,matrix multiplication,0.0004574
+840,matrix multiplication,0.0005063
+840,matrix multiplication,0.000576
+840,matrix multiplication,0.0004889
+840,matrix multiplication,0.0004489
+840,matrix multiplication,0.0004251
+840,matrix multiplication,0.000497
+840,matrix multiplication,0.0005221
+840,matrix multiplication,0.0004874
+840,matrix multiplication,0.0005321
+840,matrix multiplication,0.0004967
+850,matrix multiplication,0.0004791
+850,matrix multiplication,0.0004694
+850,matrix multiplication,0.0004992
+850,matrix multiplication,0.000515
+850,matrix multiplication,0.000501
+850,matrix multiplication,0.0004762
+850,matrix multiplication,0.000581
+850,matrix multiplication,0.0005479
+850,matrix multiplication,0.0005016
+850,matrix multiplication,0.0004966
+860,matrix multiplication,0.0004964
+860,matrix multiplication,0.0004647
+860,matrix multiplication,0.0004825
+860,matrix multiplication,0.0004824
+860,matrix multiplication,0.0005255
+860,matrix multiplication,0.000504
+860,matrix multiplication,0.0005687
+860,matrix multiplication,0.0004818
+860,matrix multiplication,0.0005309
+860,matrix multiplication,0.0005344
+870,matrix multiplication,0.000476
+870,matrix multiplication,0.0003725
+870,matrix multiplication,0.0004187
+870,matrix multiplication,0.0007763
+870,matrix multiplication,0.0003608
+870,matrix multiplication,0.0003319
+870,matrix multiplication,0.000336
+870,matrix multiplication,0.0004006
+870,matrix multiplication,0.0005554
+870,matrix multiplication,0.0005235
+880,matrix multiplication,0.0005526
+880,matrix multiplication,0.0004958
+880,matrix multiplication,0.000579
+880,matrix multiplication,0.0005014
+880,matrix multiplication,0.0005133
+880,matrix multiplication,0.0005157
+880,matrix multiplication,0.0005258
+880,matrix multiplication,0.0005874
+880,matrix multiplication,0.0005361
+880,matrix multiplication,0.0005067
+890,matrix multiplication,0.0005356
+890,matrix multiplication,0.000577
+890,matrix multiplication,0.0004977
+890,matrix multiplication,0.0004922
+890,matrix multiplication,0.0004786
+890,matrix multiplication,0.0004788
+890,matrix multiplication,0.0004572
+890,matrix multiplication,0.0005669
+890,matrix multiplication,0.0004529
+890,matrix multiplication,0.0004668
+900,matrix multiplication,0.0004238
+900,matrix multiplication,0.0004132
+900,matrix multiplication,0.0004378
+900,matrix multiplication,0.0004113
+900,matrix multiplication,0.000347
+900,matrix multiplication,0.0004802
+900,matrix multiplication,0.0003755
+900,matrix multiplication,0.0003823
+900,matrix multiplication,0.0003545
+900,matrix multiplication,0.0003942
+910,matrix multiplication,0.0004255
+910,matrix multiplication,0.0005193
+910,matrix multiplication,0.0007194
+910,matrix multiplication,0.0007163
+910,matrix multiplication,0.0006066
+910,matrix multiplication,0.0005159
+910,matrix multiplication,0.0005538
+910,matrix multiplication,0.0005385
+910,matrix multiplication,0.0006462
+910,matrix multiplication,0.0005451
+920,matrix multiplication,0.0005858
+920,matrix multiplication,0.0005715
+920,matrix multiplication,0.0005939
+920,matrix multiplication,0.000539
+920,matrix multiplication,0.000521
+920,matrix multiplication,0.0005261
+920,matrix multiplication,0.0005529
+920,matrix multiplication,0.0005732
+920,matrix multiplication,0.000556
+920,matrix multiplication,0.0005753
+930,matrix multiplication,0.0005892
+930,matrix multiplication,0.0005432
+930,matrix multiplication,0.0005213
+930,matrix multiplication,0.0005467
+930,matrix multiplication,0.0005476
+930,matrix multiplication,0.0005351
+930,matrix multiplication,0.000535
+930,matrix multiplication,0.0005213
+930,matrix multiplication,0.0005659
+930,matrix multiplication,0.0005241
+940,matrix multiplication,0.000649
+940,matrix multiplication,0.0006046
+940,matrix multiplication,0.000522
+940,matrix multiplication,0.0005419
+940,matrix multiplication,0.0006518
+940,matrix multiplication,0.0005433
+940,matrix multiplication,0.0006262
+940,matrix multiplication,0.0005382
+940,matrix multiplication,0.0006487
+940,matrix multiplication,0.0005339
+950,matrix multiplication,0.0005561
+950,matrix multiplication,0.0005706
+950,matrix multiplication,0.0006168
+950,matrix multiplication,0.0006746
+950,matrix multiplication,0.0005641
+950,matrix multiplication,0.0006044
+950,matrix multiplication,0.0005915
+950,matrix multiplication,0.0005985
+950,matrix multiplication,0.0005228
+950,matrix multiplication,0.0006084
+960,matrix multiplication,0.000623
+960,matrix multiplication,0.0005594
+960,matrix multiplication,0.0005478
+960,matrix multiplication,0.0005671
+960,matrix multiplication,0.0005647
+960,matrix multiplication,0.0005817
+960,matrix multiplication,0.0005524
+960,matrix multiplication,0.0005644
+960,matrix multiplication,0.0005217
+960,matrix multiplication,0.0005469
+970,matrix multiplication,0.0006847
+970,matrix multiplication,0.0005565
+970,matrix multiplication,0.0006532
+970,matrix multiplication,0.000595
+970,matrix multiplication,0.0006187
+970,matrix multiplication,0.00059
+970,matrix multiplication,0.0006052
+970,matrix multiplication,0.0006054
+970,matrix multiplication,0.0006165
+970,matrix multiplication,0.0005923
+980,matrix multiplication,0.0005713
+980,matrix multiplication,0.0006111
+980,matrix multiplication,0.0006775
+980,matrix multiplication,0.0005996
+980,matrix multiplication,0.00057
+980,matrix multiplication,0.0005771
+980,matrix multiplication,0.000619
+980,matrix multiplication,0.0006084
+980,matrix multiplication,0.000678
+980,matrix multiplication,0.0005952
+990,matrix multiplication,0.0006533
+990,matrix multiplication,0.0006874
+990,matrix multiplication,0.0006513
+990,matrix multiplication,0.0006022
+990,matrix multiplication,0.0006363
+990,matrix multiplication,0.0005563
+990,matrix multiplication,0.0005512
+990,matrix multiplication,0.0006235
+990,matrix multiplication,0.0005797
+990,matrix multiplication,0.0006688
+1000,matrix multiplication,0.0006454
+1000,matrix multiplication,0.0006098
+1000,matrix multiplication,0.0006408
+1000,matrix multiplication,0.0006061
+1000,matrix multiplication,0.0006923
+1000,matrix multiplication,0.0006289
+1000,matrix multiplication,0.0006077
+1000,matrix multiplication,0.0006661
+1000,matrix multiplication,0.0005975
+1000,matrix multiplication,0.0006756
